@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="login_btn_text">Log ind</string>
+    <string name="register_btn">Registrer</string>
+    <string name="password">Adgangskode</string>
+    <string name="username">Brugernavn</string>
+    <string name="remember_me">Husk mig?</string>
+    <string name="shared_pref">user_prefs</string>
+    <string name="title">Din nuværende position</string>
+    <string name="logoImage">" "</string>
+</resources>
